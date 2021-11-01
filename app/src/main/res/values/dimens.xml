@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="no_conversations_margin">36dp</dimen>
+    <dimen name="message_padding">2dp</dimen>
+
+    <!-- Material dimens -->
+    <dimen name="medium_icon">40dp</dimen>
+    <dimen name="padding_xsmall">8dp</dimen>
+    <dimen name="padding_small">12dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    <dimen name="padding_xlarge">32dp</dimen>
+
+    <dimen name="single_line_height_small">48dp</dimen>
+    <dimen name="two_line_height_small">64dp</dimen>
+    <dimen name="two_line_height_large">72dp</dimen>
+</resources>
