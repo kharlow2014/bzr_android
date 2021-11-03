@@ -3,6 +3,7 @@ plugins {
     id 'kotlin-android'
     id "org.jetbrains.kotlin.kapt"
     id "dagger.hilt.android.plugin"
+    id "com.google.gms.google-services"
 }
 
 android {
@@ -45,6 +46,9 @@ android {
 }
 
 dependencies {
+
+    implementation platform('com.google.firebase:firebase-bom:29.0.0')
+    implementation 'com.google.firebase:firebase-messaging-ktx'
 
     // hilt
     implementation "com.google.dagger:hilt-android:$hilt_version"

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "129482349688",
+    "project_id": "bzr-chat",
+    "storage_bucket": "bzr-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129482349688:android:04026080641eba5d51e18d",
+        "android_client_info": {
+          "package_name": "com.kharlow2014.bzr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129482349688-o4gvkh2uhepn6c4g1g1hqul9abbffa97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kharlow2014.bzr",
+            "certificate_hash": "82188aa10d528e12cafa3ee9dc07b2308222e121"
+          }
+        },
+        {
+          "client_id": "129482349688-5ralo4uac9sddtqs17jim5utnh2lucd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzmaflPx5RLSs1mrLJqU4EI2OS5hfP0T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129482349688-5ralo4uac9sddtqs17jim5utnh2lucd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
